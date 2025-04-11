@@ -11,8 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science Student  
-- 💻 Currently working on **Vibetix** – a smart event booking platform  
+- 🎓 Computer Science Student   
 - 🌱 Learning **DSA** also diving deeper into **Full-Stack Development**  
 - ⚡ Fun fact: I can build everything except excuses 😄  
 - 🧠 Interests: Web Apps • AI • Backend Architecture • Clean UI • Solving Problems
