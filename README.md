@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Tanish -->
 
 <h1 align="center">Hi 👋, I'm Tanish</h1>
-<h3 align="center">Student | Full Stack Developer | Lifelong Learner| DSA Grinder</h3>
+<h3 align="center">Student | Full Stack Developer | Lifelong Learner | DSA Grinder</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding">
